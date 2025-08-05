@@ -6,7 +6,13 @@ Los datos que se proporciona consisten en dos conjuntos de archivos que, en conj
 
 - Customer Loyalty History.csv: Este archivo proporciona un perfil detallado de los clientes, incluyendo su ubicación, nivel educativo, ingresos, estado civil, y detalles sobre su membresía en el programa de lealtad (como el tipo de tarjeta, valor de vida del cliente, y fechas de inscripción y cancelación).
 
-En esta evaluación se revisarán mi comprensión y habilidades con Python, por lo que los resultados de la evaluación se presentarán en un archivo Jupyter Notebook.
+En esta evaluación se revisarán mi comprensión y habilidades con Python, por lo que los resultados de la evaluación se presentarán en dos archivos Jupyter Notebook:
+
+- 1.Ejercicio_evaluación_módulo_3.ipynb (exploraión y limpieza) y 
+
+- 2.Ejercicio_evaluación_módulo_3.ipynb (visualización)
+
+
 El ejercicio consta de 2 fases:
 
 Fase 1: Exploración y Limpieza
